@@ -140,8 +140,3 @@ This secion has information on the included builtin commands with simple_shell
 .SH BUGS
 
 none known.  simple_shell does not currently replicate these tasks:
-
-.SH AUTHOR
-
-Ibrahim Morketa <ibrahimbsc8@gmail.com>
-Simegnew Misganaw <simegnew.misganaw@gmail.com>
